@@ -1,0 +1,11 @@
+WebGL Test App
+==============
+Working through Learning WebGL while modifying it to WebGL 2
+- ~~Lesson 1~~
+- ~~Lesson 2~~
+- Lesson 3
+- Lesson 4
+- Lesson 5
+- Lesson 6
+- Lesson 7
+- Lesson 8
