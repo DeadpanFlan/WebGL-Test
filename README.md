@@ -1,11 +1,10 @@
 WebGL Test App
 ==============
-Working through Learning WebGL while modifying it to WebGL 2
-- ~~Lesson 1~~
-- ~~Lesson 2~~
-- Lesson 3
-- Lesson 4
-- Lesson 5
-- Lesson 6
-- Lesson 7
-- Lesson 8
+-Displaying objects using Vertex Array Objects
+-Canvas needs focus to handle input
+-Camera Implemented
+	-Handles Rotation
+	-Handles Movement
+-Create Separate Shader for rendering Textures
+	-Initialized it in initShaders
+	-Create UVs
