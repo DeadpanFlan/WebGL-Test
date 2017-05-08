@@ -7,4 +7,17 @@ WebGL Test App
 	- Handles Movement
 - Create Separate Shader for rendering Textures
 	- Initialized it in initShaders
-	- Create UVs
+	- Created UVs
+	- Displays texture with colour;
+	- IDEA: 2 Passes, one for texture other for colour
+- Render OBJ Files
+	- Mesh Format
+		- List of Materials 
+		- List of Objects
+			- List of Groups in Object
+				- Material name for Group
+				- Faces
+				- Draw Group
+			- Draw object (call all group draws)
+	- First parse OBJ
+	- MTL files when lighting is involved
